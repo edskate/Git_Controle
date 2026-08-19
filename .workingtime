@@ -1,0 +1,81 @@
+{
+    "extConfig": {
+        "enums": [
+            {
+                "name": "ActionType",
+                "values": [
+                    "Building",
+                    "Codding",
+                    "Debugging",
+                    "Documenting",
+                    "Idle",
+                    "Testing"
+                ]
+            },
+            {
+                "name": "SessionState",
+                "values": [
+                    "Ongoing",
+                    "Idle",
+                    "Ended"
+                ]
+            }
+        ]
+    },
+    "data": [
+        {
+            "config": false,
+            "user": "edskate",
+            "dailySessions": [
+                {
+                    "date": "Wed Aug 19 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "fe3ec4fe-45fa-437a-9fad-0c68078c43c1",
+                                "duration": 295455,
+                                "idle": 899190,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "ab3b5867-61ae-4abe-bc89-e3c5a79a197a",
+                                        "state": "Idle",
+                                        "begin": 1787167528320,
+                                        "end": 1787167528320,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "f82adbfa-21c0-40a8-bc4f-e700d58858a6",
+                                        "state": "Ongoing",
+                                        "begin": 1787167250908,
+                                        "end": 1787167528320,
+                                        "duration": 277412
+                                    },
+                                    {
+                                        "id": "42e748f4-3d8b-4f45-b1a2-25b83bc57dfb",
+                                        "state": "Idle",
+                                        "begin": 1787167247172,
+                                        "end": 1787167250908,
+                                        "duration": 3736
+                                    },
+                                    {
+                                        "id": "a5e9afea-4c3b-472d-8733-331c6dcd9948",
+                                        "state": "Ongoing",
+                                        "begin": 1787167229129,
+                                        "end": 1787167247172,
+                                        "duration": 18043
+                                    }
+                                ],
+                                "filesExt": [
+                                    "c:\\Users\\EDY\\Documents\\GitHub\\Git_Controle\\Git_Controle\\inde",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
