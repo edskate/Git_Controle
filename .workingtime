@@ -33,16 +33,37 @@
                         {
                             "sessionInfo": {
                                 "id": "fe3ec4fe-45fa-437a-9fad-0c68078c43c1",
-                                "duration": 295455,
-                                "idle": 899190,
-                                "state": "Idle",
+                                "duration": 495291,
+                                "idle": 1799203,
+                                "state": "Ongoing",
                                 "durations": [
+                                    {
+                                        "id": "b09a3bbd-c352-4cd1-b06e-4a3e45d18855",
+                                        "state": "Ongoing",
+                                        "begin": 1787168988282,
+                                        "end": 1787168988282,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "d45397ef-3244-4afe-9e78-367af5417c6c",
+                                        "state": "Idle",
+                                        "begin": 1787168428343,
+                                        "end": 1787168988282,
+                                        "duration": 559939
+                                    },
+                                    {
+                                        "id": "d3394a44-15bf-435b-88a9-dd06f788d3fe",
+                                        "state": "Ongoing",
+                                        "begin": 1787168268557,
+                                        "end": 1787168428343,
+                                        "duration": 159786
+                                    },
                                     {
                                         "id": "ab3b5867-61ae-4abe-bc89-e3c5a79a197a",
                                         "state": "Idle",
                                         "begin": 1787167528320,
-                                        "end": 1787167528320,
-                                        "duration": 0
+                                        "end": 1787168268557,
+                                        "duration": 740237
                                     },
                                     {
                                         "id": "f82adbfa-21c0-40a8-bc4f-e700d58858a6",
@@ -68,10 +89,11 @@
                                 ],
                                 "filesExt": [
                                     "c:\\Users\\EDY\\Documents\\GitHub\\Git_Controle\\Git_Controle\\inde",
-                                    ".html"
+                                    ".html",
+                                    ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations"
                                 ]
                             },
-                            "actionType": "Idle"
+                            "actionType": "Codding"
                         }
                     ]
                 }
