@@ -35,16 +35,71 @@
                         {
                             "sessionInfo": {
                                 "id": "fe3ec4fe-45fa-437a-9fad-0c68078c43c1",
+ pagina_001
+                                "duration": 794315,
+                                "idle": 2699202,
+                                "state": "Idle",
+
                                 "duration": 495291,
                                 "idle": 1799203,
                                 "state": "Ended",
+ main
                                 "durations": [
+                                    {
+                                        "id": "b2b25c5b-51e4-494a-873f-f53e948fe581",
+                                        "state": "Idle",
+                                        "begin": 1787169645435,
+                                        "end": 1787169645435,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "254a4cce-f1f2-4194-aa20-9bb979dcbd6c",
+                                        "state": "Ongoing",
+                                        "begin": 1787169637178,
+                                        "end": 1787169645435,
+                                        "duration": 8257
+                                    },
+                                    {
+                                        "id": "235617c6-4bcd-4cd0-883a-f6340ba8eb6d",
+                                        "state": "Idle",
+                                        "begin": 1787169456094,
+                                        "end": 1787169637178,
+                                        "duration": 181084
+                                    },
+                                    {
+                                        "id": "386a3e4f-37e2-4852-b3f8-1b5cf2f1bfad",
+                                        "state": "Ongoing",
+                                        "begin": 1787169430010,
+                                        "end": 1787169456094,
+                                        "duration": 26084
+                                    },
+                                    {
+                                        "id": "78f61f7d-3e6c-4aa7-9a82-2367773aa801",
+                                        "state": "Idle",
+                                        "begin": 1787169294308,
+                                        "end": 1787169430010,
+                                        "duration": 135702
+                                    },
+                                    {
+                                        "id": "f3bff019-192c-4945-a8b4-1cce7fa1ded2",
+                                        "state": "Ongoing",
+                                        "begin": 1787169029653,
+                                        "end": 1787169294308,
+                                        "duration": 264655
+                                    },
+                                    {
+                                        "id": "4ea1992e-3c03-430a-b796-f366a43aa806",
+                                        "state": "Idle",
+                                        "begin": 1787169028360,
+                                        "end": 1787169029653,
+                                        "duration": 1293
+                                    },
                                     {
                                         "id": "b09a3bbd-c352-4cd1-b06e-4a3e45d18855",
                                         "state": "Ongoing",
                                         "begin": 1787168988282,
-                                        "end": 1787168988282,
-                                        "duration": 0
+                                        "end": 1787169028360,
+                                        "duration": 40078
                                     },
                                     {
                                         "id": "d45397ef-3244-4afe-9e78-367af5417c6c",
@@ -95,6 +150,8 @@
                                     ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations"
                                 ]
                             },
+pagina_001
+
                             "actionType": "Codding"
                         },
                         {
@@ -179,6 +236,7 @@
                                     ".html"
                                 ]
                             },
+ main
                             "actionType": "Idle"
                         }
                     ]
